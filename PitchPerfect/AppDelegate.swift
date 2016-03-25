@@ -1,5 +1,5 @@
 //
-//  AppDelegate.swift
+//  AppDelegate.swift/Users/adamzarn/Desktop/PitchPerfect/PitchPerfect/AppDelegate.swift
 //  PitchPerfect
 //
 //  Created by Adam Zarn on 3/12/16.
@@ -13,9 +13,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        print("Hello World")
         return true
     }
 
